@@ -56,7 +56,7 @@ export default async function Page() {
       <footer className=" text-center p-4 ">
         <div className="mx-auto flex items-center justify-between">
           <div>
-            <p>&copy; {new Date().getFullYear()} XenoPay</p>
+            <p>&copy; {new Date().getFullYear()} EchoPay</p>
             <p>All rights reserved.</p>
           </div>
           <div>

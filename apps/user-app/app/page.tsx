@@ -23,7 +23,7 @@ export default async function Page() {
             alt="wallet"
             className="mr-2"
           />
-          XenoPay
+          EchoPay
         </div>
         <div className=" flex justify-between space-x-2 mr-2 font-bold text-xl">
           <span className="my-auto"> Your Financial Partner</span><span className="my-auto">  <img width="48" height="48" src="https://img.icons8.com/doodle/48/handshake--v1.png" alt="handshake--v1"/></span>
@@ -60,10 +60,10 @@ export default async function Page() {
             <p>All rights reserved.</p>
           </div>
           <div>
-            <p>Made by- Mohit Kumar</p>
+            <p>Made by- Karanpreet Singh</p>
           </div>
           <div className="flex justify-between space-x-6">
-            <a href="https://github.com/Mohit-Kumar-3114">
+            <a href="https://github.com/Kp-Singh09">
               <svg
                 height="32"
                 viewBox="0 0 72 72"
@@ -82,7 +82,7 @@ export default async function Page() {
                 </g>
               </svg>
             </a>
-            <a  href="https://www.linkedin.com/in/mohit-kumar-79866a264" >
+            <a  href="https://www.linkedin.com/in/kp-singh-/" >
               <svg
                 enableBackground="new 0 0 32 32"
                 height="32px"
